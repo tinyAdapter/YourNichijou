@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "YourNichijou": {
+      "commandName": "Project",
+      "commandLineArgs": "webwatcher -u store.steampowered.com www.baidu.com",
+    }
+  }
+}
